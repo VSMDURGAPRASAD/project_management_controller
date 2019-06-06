@@ -2,10 +2,11 @@
 
 ### Introduction to Communicaion Management Plan 
 
-The Communication Management Plan gives the information and communication needs of the stakeholder. It inclused the communication techonologies that are required, such as emails, phone calls, skype calls which helps all the team members to keep in touch about the specific updates, weekly meetings during the completion of the project. The contact details of all the stakeholders and their responsible documents are shown in the Stakeholder communications analysis table.     
+The Communication Management Plan determines  the information and communication needs of the stakeholder. It includes  the communication techonologies that are required, such as  VideoConferncing,Voicemails,emails, phone calls, skype calls which helps all the team members to keep in touch about the specific updates, weekly,daily meetings during the completion of the project. The contact details of all the stakeholders and their responsible documents are shown in the Stakeholder communications analysis table.It uses the  formal and informal methods for communicating.
+  
 
 ### Contents in the Project Communication management Plan
-1. Information to be communicated, including format, content, and level of detail
+1. Information to be communicated, including format, content, and level of detail of the Project 
 2. Who will receive the information and who will produce it
 3. Suggested methods or technologies for conveying the information
 4. Frequency of communication
