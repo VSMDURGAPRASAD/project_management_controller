@@ -40,7 +40,7 @@ Below are few of the reports . Production Shedule can be known
 
 ### 4. Frequency of communication
 
-Project Libre or Microsoft Project tool .These are the tools that helps in  creating Gantt charts .By suing them we can know the progress of work in a particular day or what amount of work is done by them. Daily meetings done to know the progress.Skype meeting is also done to know the work visually they can see .
+Project Libre or Microsoft Project tool .These are the tools that helps in  creating Gantt charts .By using them we can know the progress of work in a particular day or what amount of work is done by them. Daily meetings done to know the progress.Skype meeting is also done to know the work visually they can see .
 
 
 ### 5. Escalation procedures for resolving issues
