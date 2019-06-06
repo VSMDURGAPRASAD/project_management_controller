@@ -9,11 +9,12 @@ The Communication Management Plan determines  the information and communication 
 1. Information to be communicated, including format, content, and level of detail of the Project 
 2. Who will receive the information and who will produce it
 3. Suggested methods or technologies for conveying the information
-4. Frequency of communication
-5. Escalation procedures for resolving issues
-6. Revision procedures for updating the communications management plan
-7. A glossary of common terminology
-8. Stakeholder communications requirements
+4.Production schedule and resources for producing key project information
+5. Frequency of communication
+6. Escalation procedures for resolving issues
+7. Revision procedures for updating the communications management plan
+8. A glossary of common terminology
+9. Stakeholder communications requirements
 
 
 ### 1. Information to be communicated, including format, content, and level of detail
@@ -38,27 +39,27 @@ Below are few of the reports . Production Shedule can be known
 
 
 
-### 4. Frequency of communication
+### 5. Frequency of communication
 
 Project Libre or Microsoft Project tool .These are the tools that helps in  creating Gantt charts .By using them we can know the progress of work in a particular day or what amount of work is done by them. Daily meetings done to know the progress.Skype meeting is also done to know the work visually they can see .
 
 
-### 5. Escalation procedures for resolving issues
+### 6. Escalation procedures for resolving issues
 
 Issues that are displayed in the Jira or any tool .First we need to see the priority .Based on the priority from high to low .Support team should assign them  and developers need solve them .
 
-### 6. Revision procedures for updating the communications management plan
+### 7. Revision procedures for updating the communications management plan
 
 CBy using the SharePoint  or google docs, calendars   can updates the Communication manage plan .They play the main role in updating     plan .All can be seen in file
 
 
-### 7. A glossary of common terminology
+### 8. A glossary of common terminology
 
 Project archives are a complete set of organized project records that provides an accurate history of the project.A project life cycle is a collection of project phases .Escalation Process or Termination Process.
 
 
 
-### 8. Stakeholder communications requirements
+### 9. Stakeholder communications requirements
  
 Stakeholders|Document Name|Document Format|Contact Person|Due Date|
 ---|---|--|--|--|
